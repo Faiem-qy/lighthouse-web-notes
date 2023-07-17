@@ -7,5 +7,5 @@ Faiem's Notes
 
 ## Summary 
 
-This repository contains all of the notes taken by Faiem for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Faiem](https://github.com/Faiem-qy) for the Lighthouse Labs Web Development Bootcamp.
 
